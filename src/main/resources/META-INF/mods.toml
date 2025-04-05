@@ -29,10 +29,10 @@ version="${mod_version}" #mandatory
 displayName="${mod_name}" #mandatory
 
 # A URL to query for updates for this mod. See the JSON update specification https://docs.neoforged.net/docs/misc/updatechecker/
-updateJSONURL="https://modrinth.com/updates/YvxxcTkD" #optional
+updateJSONURL="${mod_update}" #optional
 
 # A URL for the "homepage" for this mod, displayed in the mod UI
-displayURL="https://modrinth.com/project/create-rocked-and-decadent" #optional
+displayURL="${mod_page}" #optional
 
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="icon.png" #optional
