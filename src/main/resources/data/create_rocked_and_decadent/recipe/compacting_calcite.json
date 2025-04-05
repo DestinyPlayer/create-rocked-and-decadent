@@ -1,0 +1,13 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+		{
+			"item": "minecraft:diorite"
+		}
+	],
+	"results": [
+		{
+			"id": "minecraft:calcite"
+		}
+	]
+}

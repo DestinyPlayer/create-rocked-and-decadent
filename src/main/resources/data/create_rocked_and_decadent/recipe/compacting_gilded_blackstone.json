@@ -1,0 +1,16 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+		{
+			"item": "minecraft:blackstone"
+		},
+		{
+			"item": "minecraft:gold_nugget"
+		}
+	],
+	"results": [
+		{
+			"id": "minecraft:gilded_blackstone"
+		}
+	]
+}

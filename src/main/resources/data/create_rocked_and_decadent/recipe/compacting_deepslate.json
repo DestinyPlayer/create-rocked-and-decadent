@@ -1,0 +1,22 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "tag": "c:cobblestones"
+        },
+        {
+            "tag": "c:cobblestones"
+        },
+        {
+            "tag": "c:cobblestones"
+        },
+        {
+            "tag": "c:cobblestones"
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:deepslate"
+        }
+    ]
+}

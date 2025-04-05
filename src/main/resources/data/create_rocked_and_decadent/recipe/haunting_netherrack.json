@@ -1,0 +1,17 @@
+{
+    "type": "create:haunting",
+    "ingredients": [
+        {
+            "item": "minecraft:netherrack"
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:netherrack"
+        },
+        {
+            "chance": 0.25,
+            "id": "minecraft:netherrack"
+        }
+    ]
+}

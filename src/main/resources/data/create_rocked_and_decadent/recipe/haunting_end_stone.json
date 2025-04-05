@@ -1,0 +1,17 @@
+{
+    "type": "create:haunting",
+    "ingredients": [
+        {
+            "item": "minecraft:end_stone"
+        }
+    ],
+    "results": [
+        {
+            "id": "minecraft:end_stone"
+        },
+        {
+            "chance": 0.25,
+            "id": "minecraft:end_stone"
+        }
+    ]
+}

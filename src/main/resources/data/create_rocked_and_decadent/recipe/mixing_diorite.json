@@ -1,0 +1,26 @@
+{
+    "type": "create:mixing",
+    "heat_requirement": "heated",
+    "ingredients": [
+        {
+            "item": "minecraft:diorite"
+        },
+        {
+            "item": "minecraft:quartz"
+        },
+        {
+            "type": "fluid_stack",
+            "amount": 10,
+            "fluid": "minecraft:water"
+        }
+    ],
+    "results": [
+        {
+            "count": 2,
+            "id": "minecraft:diorite"
+        },
+        {
+            "id": "minecraft:quartz"
+        }
+    ]
+}
